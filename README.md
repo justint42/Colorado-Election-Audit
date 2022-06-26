@@ -1,37 +1,16 @@
 # Election_Analysis
 
-## Project Overview
+## Election Audit Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determin the winner of the election based on popular vote.
+### Purpose
 
-## Resources
-- Data Source: election_results.csv
-- Software: Python 3.7.6, Visual Studio Code, 1.68.1
+## Election Audit Results
 
-## Summary
-The analysis of the elections shows:
-- 369,711 total votes
+<img width="351" alt="election_results" src="https://user-images.githubusercontent.com/106895220/175805620-62ba4af1-da08-4f1e-b680-c202e8645f76.png">
 
-- Three candidates
-  - Diana DeGette
-  - Charles Casper Stockham
-  - Raymon Anthony Doane
+<img width="351" alt="Terminal_Output_M3" src="https://user-images.githubusercontent.com/106895220/175805627-aa2f9e19-f8cf-48d2-8d4c-9b73ac68ee12.png">
 
-- Candidate Results
-  - Charles Casper Stockham: 23.0% (85,213)
-  - Diana DeGette: 73.8% (272,892)
-  - Raymon Anthony Doane: 3.1% (11,606)
 
-- Election Winner
-  - Diana DeGette
-  - Winning Vote Count: 272,892
-  - Winning Percentage: 73.8%
+## Election Audit Summary
 
-## Challenge Overview
-
-## Challenge Summary
