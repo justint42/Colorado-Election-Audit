@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Election Audit Overview
-A Colorado Board of Elections employee the following tasks to complete the election audit of a recent local congressional election.
+A Colorado Board of Elections employee to complete the election audit of a recent local congressional election. They are tasked to:
 
 1. Calculate total votes casted.
 2. Gather a list of candidates who received votes.
